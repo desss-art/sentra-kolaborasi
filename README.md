@@ -8,5 +8,4 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | Developer B | Hana Rafifa Helmi | @hanarafifaa |
 ## Daftar Skrip
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
-uji langsung
 - monitoring.sh - memantau layanan secara berkala
