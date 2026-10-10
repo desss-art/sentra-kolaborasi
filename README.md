@@ -8,3 +8,5 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | Developer B | Hana Rafifa Helmi | @hanarafifaa |
 ## Daftar Skrip
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
+- healthcheck.sh - memeriksa status layanan
+  Cara pakai: `./src/healthcheck.sh [URL]`. Exit code 0 = UP, 2 = DOWN.
